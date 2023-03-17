@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+
+1. primeiro iten
+2.primeiro iten
+3.primeiro iten
+
+*iten A
+*iten B
+*iten C
+
+[] iten j
+[x] iten k
+[] iten 1
+
 <!--
 **davilope5/davilope5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
